@@ -1,0 +1,13 @@
+{
+    "profile_name": "Customer",  
+    "profile_email": "email@email.com",
+    "profile_cuntry": "UK",
+    "profile_city": "London",
+    "current_lat": "",
+    "current_lon": "", 
+    "current_country": "",
+    "current_city": "",
+    "last_updated": "",  // GMT format
+    "saved_events": [12,14,16,19]  // 
+    
+  }
